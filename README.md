@@ -13,7 +13,7 @@
 
 「2.7 カンマ区切りで時間とセンサーデータを取得しよう」のサンプルコードです。
 
-### notify_to_slack.py
+### [notify_to_slack.py](https://github.com/manami-taira/CodeZine_RasPiZero/blob/master/notify_to_slack.py)
 
 「2.10 温湿度をSlackへ投稿する」のサンプルコードです。
 
