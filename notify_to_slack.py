@@ -1,4 +1,3 @@
-$ nano notify_to_slack.py
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import slackweb
