@@ -9,7 +9,7 @@
 
 ## 第2章
 
-### [sensor̲csv.py](https://github.com/manami-taira/CodeZine_RasPiZero/blob/master/sensor_csv.py)
+### [sensor_csv.py](https://github.com/manami-taira/CodeZine_RasPiZero/blob/master/sensor_csv.py)
 
 「2.7 カンマ区切りで時間とセンサーデータを取得しよう」のサンプルコードです。
 
