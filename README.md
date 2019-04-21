@@ -29,3 +29,6 @@
 
 「10.1 IoTプラレールをPythonのコードで動かす～テスト走行」のサンプルコードです。
 
+### [iot-mascon](https://github.com/manami-taira/iot-mascon)
+
+「10.2 AzureでIoTマスコンを作ってみよう」のサンプルコードです
